@@ -141,7 +141,7 @@
        - Started from the bottom and transformed the industry
   
     -   Summary:
-        -  Different perspectives based on different backgrounds, different expectations
+          -  Different perspectives based on different backgrounds, different expectations
         -   Defining FinTech is complex because it means different things to different people And so what you define it as depends on how you're approaching it
         -   "What's new is smartphones. What's new is the iPhone and the Samsung and others, Android phones because that puts at your fingertips capability you never had before for computing technology and it changes consumers' view and interaction with many things in their world."
         -    If I were to look at the perspective of the large firms we would say FinTech is not new.  We can argue that we've been using technology and finance for more than 100 years of different types of technology, different perspectives
