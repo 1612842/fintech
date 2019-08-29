@@ -140,14 +140,14 @@
        - 10th Largest Bank in USA by assets
        - Started from the bottom and transformed the industry
   
-    -   Summary:
-          -  Different perspectives based on different backgrounds, different expectations
-        -   Defining FinTech is complex because it means different things to different people And so what you define it as depends on how you're approaching it
-        -   "What's new is smartphones. What's new is the iPhone and the Samsung and others, Android phones because that puts at your fingertips capability you never had before for computing technology and it changes consumers' view and interaction with many things in their world."
-        -    If I were to look at the perspective of the large firms we would say FinTech is not new.  We can argue that we've been using technology and finance for more than 100 years of different types of technology, different perspectives
-        -    We talked about a consumer perspective I'm going a little bit out of order but in terms of the opportunity this is enabled by consumers expecting new things it's not enabled by tech FinTech is not necessarily about new finance or new tech It's about new attitudes towards apps new attitudes towards convenience
-        -    when you think about this perspective of the CEO it's useful to look and say What the heck is going on and what are the new startups? And there are many, many many new businesses being started up So this is a proliferation of opportunity you've got to hear from one CEO But there are hundreds of FinTech CEOs starting up new businesses and new opportunities Some of which are just joining in the bandwagon and maybe they're just fraud or maybe they're noise or maybe they will fail
-        -    And finally, from the perspective of investors this is a roller coaster. They're enjoying the ups and downs. And some investor enthusiasm about FinTech is simply that it is so volatile. Just like people go to a casino for a reason Not because they want to lose their money They will, probably on average and maybe some of this is going to result in losses but maybe some of it will and has resulted in wealth 
+- Summary:
+  - Different perspectives based on different backgrounds, different expectations
+  - Defining FinTech is complex because it means different things to different people And so what you define it as depends on how you're approaching it
+  - "What's new is smartphones. What's new is the iPhone and the Samsung and others, Android phones because that puts at your fingertips capability you never had before for computing technology and it changes consumers' view and interaction with many things in their world."
+  - If I were to look at the perspective of the large firms we would say FinTech is not new.  We can argue that we've been using technology and finance for more than 100 years of different types of technology, different perspectives
+  - We talked about a consumer perspective I'm going a little bit out of order but in terms of the opportunity this is enabled by consumers expecting new things it's not enabled by tech FinTech is not necessarily about new finance or new tech It's about new attitudes towards apps new attitudes towards convenience
+  - when you think about this perspective of the CEO it's useful to look and say What the heck is going on and what are the new startups? And there are many, many many new businesses being started up So this is a proliferation of opportunity you've got to hear from one CEO But there are hundreds of FinTech CEOs starting up new businesses and new opportunities Some of which are just joining in the bandwagon and maybe they're just fraud or maybe they're noise or maybe they will fail
+  - And finally, from the perspective of investors this is a roller coaster. They're enjoying the ups and downs. And some investor enthusiasm about FinTech is simply that it is so volatile. Just like people go to a casino for a reason Not because they want to lose their money They will, probably on average and maybe some of this is going to result in losses but maybe some of it will and has resulted in wealth 
 
 ## Application of fintech - finance side
 
