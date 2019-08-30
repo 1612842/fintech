@@ -3,7 +3,7 @@
 -   Name: Lê Thành Công
 -   Domain: conglt
 
-# Essay
+# Essay for fintech from coursera
 
 In the early years of the 21st century, information technology is constantly developing and continuously making great progress that in the 90s of the 20th century we could not imagine. Therefore, IT has been applied in all areas of life such as education, health, military, economics and culture. In finance, Fintech is certainly a word that is no stranger to those who have been closely monitoring the financial industry in recent years, which is often mentioned in conferences, meetings and even became a hot topic for discussion at the banquet table.
 Since the wave of startups focusing on the technology field in finance emerged after the 2008 crisis, "FinTech" has become a representative for a digital revolution that can completely change the way business working of financial industry.
