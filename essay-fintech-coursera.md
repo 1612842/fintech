@@ -1,6 +1,6 @@
 # Fintech from coursera
 
-# Author
+# Note
 
 -   Name: Lê Thành Công
 -   Domain: conglt
