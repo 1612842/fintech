@@ -153,15 +153,179 @@
 
 ### Lending and personal finance
 
+- Lending Club was initially one of the first applications on Facebook 
+  - Unsecured Personal Loans
+    - Up to $1000 to $4000 USD
+    - Up to 3 years
+  - Investors can browse loan listings on website and select loans to invest in 
+  - Allowing people to borrow money and allowing others to invest in such loans So, it was a peer to peer lending platform
+  - Lending club also makes traditional consumer loans, include auto finance
+    - These loans are not funded by investors
+  - A pioneer in FinTech and one of the largest firms, but had some problems
+- Kabbage:
+  - Smaill business loans fast
+    - Traditional banks often take weeks to process small business loans
+  - Kabbage focuses on short-term, high interest rate, flexible loans
+  - As of December 2017, Kabbage has loaned $4 bilion USD to over 130, 000 small business customers
+  - \#10 on KPMG FinTech 100
+    - Revolutionizing industry
+    - Fast-growth Firm
+  - Funded today by Ing, Credit Suisse, Softbank,... 
+
+- Credit Karma
+  - Free credit report and finance management platform founded in 2006
+  - Targeted ads and referral fees provide revenue
+    - Banks willings to pay for "attractive" loan referrals
+  - Provides additional consumer services
+
+- eLoan
+  - Created online-based lending service, in early days of the Internet
+    - Pioneer of the online mortagage lending 
+    - Simple value proposition
+  - Received $25.4 million in venture funding from Sequoia, Yahoo and Softbank
+
 ### Crowdfunding & business financing
+
+- Crowdfunding models
+  - Reward-based
+    - Get product or services or maybe an ability to be part of designing or naming something
+  - Social Welfare
+    - Sponsorship or donation
+  - Equity based 
+    - Shared, or percent of profits or sales, in return for investing 
+- Kickstarter
+  - Global crowdfunding platform focused on creativity 
+    - Bring creative project to life 
+    - Offer rewards/experiences
+    - Similar to old subscription model of arts patronage
+- Neighborly
+  - Allow investment in civic, projects via "micro-bonds"
+  - Started in 2012 as donation-based crowdfunding for civic projects, but evolved
+  - In two years, raised funds for 55 projects totalling $2.5 milions
+- Indiegogo vs kickstarter
 
 ### Payments and retail transactions
 
+- Paypal
+  - Established in 1998
+    - Mergered with Elon Musk's startup in 2000
+    - Musk fired in 2001
+  - Acquired by Ebay in 2002 for 1.5 bilions USD
+  - By 2010 Paypal had 100 milions accounts, 190 markets, 25 different currencies
+  - Acquired Braintree (owned Venmo)
+  - 2015 eBay spinoff; independent now
+  - 2015 acquired Xoom
+    - Money transfer service
+    - Primarily person to person
+    - Available in many countries worldwide
+- Braintree
+  - Merchant Payment Gateway
+  - Launched instant signup, streamlining payment services for merchants, reduce signup to minutes
+  - Started in 2007
+  - Acquired Venmo in 2011 for $26 milion, acquired by Paypal for $800 milions in 2013
+
+- Venmo
+  - Allow money to transfer to other users using mobile app or web
+  - convenient, easy to use, free
+  - transactions are personal, with sms notes that makes payments like conversations
+  - exchange money is easy/fun
+  - $18 billions transfer in 2016
+
 ### Equity, trading, and investment
+
+- Robinhood
+  - Smartphone trading platform app with no fee
+  - Professional care about low latency
+    - What you see is what you get
+    - Spread/slippage
+  - Revenue stream
+    - Margin
+    - Left over funds
+    - Loans
+  - Competitions with banks
+    - Is free good enough?
+    - Value added services
+- Etoro
+  - Social investment platform
+    - Walk the talk
+    - Ensure the integrity of the traders
+  - Subscribe to the investors
+    - Copy their action in real time
+- Quantopian
+  - Mathematical Model Testing
+    - Test model against historical data and track performance
+  - Can the past predict the future?
+  - Law of large numbers
+    - Dont have to be right all the time
+  - Open innovation
+    - Exciters traders to develop and test models
+
+- Algo-trading
+  - Algorithm - trading
+    - writting down a model in code
+    - python most popular
+  - Open source code
+    - important to programers
 
 ### Cryptocurrencies
 
+- Conventional - store value
+  - Bitcoin (BTC)
+    - Highest market cap
+  - Litecoin (LTC)
+    - Code fork of bitcoin
+    - Small blocks + Low transaction fees
+- Privacy focused - untraceable transactions
+  - Monero (XMR)
+    - one time addresses
+    - doesnot display wallet balances
+  - Dash
+    - Private send features
+- Settlement networks
+  - Ripple (XRP)
+    - Facilities fiat transactions
+    - Used by banks
+    - Not de-centralized
+  - Tether (USDT)
+    - Tethered to USD
+- Smart contracts
+  - Ethereum (ETH)
+    - Smart contracts
+    - Enables/Used by other cryptos
+  - Cardano (ADA)
+    - Layered contracts
+    - Proof of Stake
+- Tokens
+  - EOS
+    - Complex contracts
+  - Tron (TRX)
+    - Entertainment market
+  - Dorado 
+    - Delivery services
+
+- Crypto-collectables
+  - Cryptokitties
+  - Cryptodogs
+
+- Crypto risks vs advantage
+
+
 ### Banking infrastructure tools, and logistics
+
+- Spout 
+  - Intergrated with 710 financial institutions
+  - RESTful API allows secure development across IOS, Android and web  with bank level encryption
+  - Allow portability of data for customers
+- Demyst data
+  - intergrates online, social, and company data in real time via an API for prediction
+- Gusto
+  - Started at ZenPayroll, but change name to Gusto in 2015 after HR and benefits additions
+  - Integrates with finance and accounting services
+- Ant financial
+  - In jan 2018, largest valuation FinTech company worldwide
+  - Operate Alipay and Sesame Credit & Yu'e Bao, largest money market fund
+
+-  FinTech is more than just financial services One other thing about Ant Financial is they have announced using Blockchain for logistics And one of the largest Blockchain applications thus far because Alibaba does a huge amount of logistics to support Alibaba's transactions and retail space So, we've got a FinTech application using Blockchain we've got a social application with fintech using virtual trees like a virtual currency or virtual benefit of carbon emissions We've got the largest money market fund in the world owned by an e-commerce company We've got one of the largest payment networks in the world and across the Nation of China we've got 63 percent of users in 2018 using some form of fintech for transactions or savings or for something in their lives that is double what the US or the UK, or Germany or Switzerland have This is a huge penetration of the market Sixty-three percent in China less than a half of that in most of the rest of the world So, China is leading the world in digital penetration Followed by the second largest e-commerce or not e-commerce but fintech penetration in the world the second largest fintech penetration in the world is India So, China at 63 percent according to a recent report India at 52 percent.
 
 ### Summary
 
@@ -239,9 +403,76 @@
 
 ### Big Data and analytics
 
+- Data control shift:
+  - Data used to reside in a few large companies and with government
+  - With the Internet the Data is uploaded and shared
+    - A wealth of knowledge is out there now
+
+- Data quality
+  - Data can have many quality issues - unclean - chaotic
+  - How to analyze an ocean of data
+    - Statistics
+    - Models
+  - Interpretaion of data
+  - Sentiment Analysis
+    - Taking advangtage of people's feeling and behavior
+
+- Data quantity
+  - More or less data?
+    - More data is generally superior
+    - Overwhelming amounts of data is possible though
+  - Data cleaning
+  - Data reconstruction
+
+- Data analytics and developments
+  - Data analytics a powerful tool for financial institutions
+  - IOT and FinTech Development
+    - Insurance models
+    - Data privacy issues
+
+-  Into summarize we have a lot of data, particularly in financial markets Data analytics matters This is one of the biggest opportunities for data analytics because we have clean data We have high quality data for stock trading and that makes up big opportunity for data analytics that's interesting But we also have a wealth and breadth of data in many other areas at FinTech and if we can do better data cleaning and get the quality of that data up we may be able to do things that we could never do before
+
 ### AI, DSS, and Automation
 
+- Data revolution
+  - With more data and better quality data, financial firms can make better decisions
+  - Increase computing power and memory capacity help greatly
+
+- AI today
+  - Implementation of advanced decision making systems
+    - Allows you to make a move before the market moves
+  - Chess vs Go
+    - Bruteforce vs Self-taught (Alpha Go)
+  - Teaching AI to trade
+
+- Automation today
+  - Used to focus on backend efficienies
+  - Nowadays focused on frontend, users related  services
+  - Automation may replace high earning jobs
+  - Backdoor - just in case
+
 ### Smartphones and customer tech
+
+- One of the most important technologies to enable FinTech in the evolution of FinTech the emergence of FinTech and the booming growth of FinTech companies and applications is the advent of the smartphone The smartphone was introduced by Apple and Samsung at about the same time Android and Apple operating system at about the same time almost in the same year as the financial markets melted down
+
+- Smartphones:
+  - Apple IOS vs Samsung Android
+  - Substanial computing power at our fingertips
+  - Perhaps more prevalent than bank account
+  - Enable other technologies
+  - New FinTech apps
+    - Popularity
+    - Convenience
+
+- As smartphones proliferated, and people said "We love having the power of a supercomputer in our pocket.  This transform the feeling of users about computing power.  So, if you were to say FinTech maybe what you should say is a bank on your phone. When you look at the success of a cryptocurrency like bitcoin, it couldn't have happened without smartphones
+
+- Other consumer tech
+  - Apple watch 
+    - Can link with insurance provider
+    - Wireless prepaid cards
+      - Octopus - Cash replacement
+    - VR/AR/Smart contacts
+    - GPS/IoT/SmartCards
 
 ### Summary
 
