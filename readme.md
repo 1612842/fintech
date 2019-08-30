@@ -7,7 +7,7 @@
 
 ## Fintech knowledge foundation
 
-[Essay](essay-fintech-coursera.md)
+[Essay](essay-fintech.md)
 
 ## Theory of finance and money knowledge
 
