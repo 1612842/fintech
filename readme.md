@@ -11,4 +11,4 @@
 
 ## Theory of finance and money knowledge
 
-[Essay](essay-theory-money.md)
+[Essay](essay-money.md)
